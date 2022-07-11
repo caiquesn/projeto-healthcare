@@ -3,4 +3,4 @@ Desafio Rocketseat
 
 Healthcare
 
-https://caiquesn.github.io/rocketseat-nlw/
+https://caiquesn.github.io/projeto-healthcare/
